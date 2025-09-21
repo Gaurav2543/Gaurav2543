@@ -46,4 +46,4 @@ River jumps 🌊 • mountain summits 🏔️ • night rides 🌃 — I bring t
 - 💼 [LinkedIn](https://www.linkedin.com/in/gaurav-bhole-38604b240/)
 - ✉️ [Email](mailto:gaurav.bhole@research.iiit.ac.in)
 
-<sub>“The most profound discoveries aren’t just in data, but in experience.”</sub>
+<sub>“The most profound discoveries aren’t just found in data, but in experiences.”</sub>
