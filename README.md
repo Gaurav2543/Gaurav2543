@@ -12,11 +12,11 @@
 - 🩺 Mammo-Bench — A Large-scale Benchmark Dataset of Mammography Images  
   📄 [Paper](https://www.medrxiv.org/content/10.1101/2025.01.31.25321510v1) · 💻 [Code](https://github.com/Gaurav2543/Mammo-Bench)
 - 🔗 HyperCLSA — Hypergraph Contrastive Learning for Multi-Omics Integration  
-  💻 [Code](https://github.com/Gaurav2543/HyperCLSA)
+  📄 [Paper](https://www.biorxiv.org/content/10.1101/2025.09.22.677517v1) · 💻 [Code](https://github.com/Gaurav2543/HyperCLSA)
 - 🛰️ DFANet — Difference Fusion Attention for Semantic Change Detection  
   💻 [Code](https://github.com/omkarsoak/DFANet-SCD)
 - 🐭 Deep phenotyping via hierarchical learning of mouse movement  
-  💻 [Code](https://github.com/Gaurav2543/DVC-hBehaveMAE)
+  📄 [Poster](https://gaurav2543.github.io/myprofile/media/scientific_media/DVC_hBehaveMAE_Poster.pdf) · 💻 [Code](https://github.com/Gaurav2543/DVC-hBehaveMAE) · 
 
 ---
 
