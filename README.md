@@ -32,7 +32,7 @@
 ## ✨ Highlights
 - 🏆 Research List Award (IIITH, 2024–25)
 - 🏆 IHub-Data Research-Translation Fellowship, 2025–26
-- ⚽ Co-captain — led university team to a championship after 9 years
+- ⚽ Co-captain — led university team to multiple championships after 9 year trophy draught
 - 🔒 SemEval-2025 Task 4 (Machine Unlearning): Top-4
 
 ---
