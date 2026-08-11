@@ -4,15 +4,17 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-gaurav--bhole--38604b240-0a66c2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaurav-bhole-38604b240/)
 [![Email](https://img.shields.io/badge/Email-gaurav.bhole%40research.iiit.ac.in-ee453a?logo=gmail&logoColor=white)](mailto:gaurav.bhole@research.iiit.ac.in)
 
-💡 AI × Biology @ EPFL (LISP) & IIIT Hyderabad (CCNSB) — building learning systems to decode life sciences.
+💡 AI × Healthcare and Biology @ MUI (EpiCenter) — building learning systems to decode life sciences. Ex-EPFL & Ex-IIIT Hyderabad Graduate.
 
 ---
 
 ## 📖 Publications
-- 🩺 Mammo-Bench — A Large-scale Benchmark Dataset of Mammography Images  
-  📄 [Paper](https://www.medrxiv.org/content/10.1101/2025.01.31.25321510v1) · 💻 [Code](https://github.com/Gaurav2543/Mammo-Bench)
+- 🩺 MammoInsight: A Unified Multi-Task Deep Learning Framework for Mammography Analysis
+  📄 [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6580484) · 💻 [Code](https://github.com/Gaurav2543/MammoInsight)
 - 🔗 HyperCLSA — Hypergraph Contrastive Learning for Multi-Omics Integration  
-  📄 [Paper](https://www.biorxiv.org/content/10.1101/2025.09.22.677517v1) · 💻 [Code](https://github.com/Gaurav2543/HyperCLSA)
+  📄 [Paper](https://doi.org/10.1007/978-3-032-18477-1_59) · 💻 [Code](https://github.com/Gaurav2543/HyperCLSA)
+- 🩺 Mammo-Bench — A Large-scale Benchmark Dataset of Mammography Images  
+  📄 [Paper](https://link.springer.com/chapter/10.1007/978-3-032-02489-3_11) · 💻 [Code](https://github.com/Gaurav2543/Mammo-Bench)
 - 🛰️ DFANet — Difference Fusion Attention for Semantic Change Detection  
   💻 [Code](https://github.com/omkarsoak/DFANet-SCD)
 - 🐭 Deep phenotyping via hierarchical learning of mouse movement  
